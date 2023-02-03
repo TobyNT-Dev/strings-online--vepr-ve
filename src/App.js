@@ -19,7 +19,7 @@ background-color: ${props => props.theme.colors.background};
 width: 100%;
 height: 100vh;
 display: grid;
-grid-template-columns: 0.5fr 2fr 2fr 2fr 1fr 4fr 0.5fr;
+grid-template-columns: 0.5fr 3fr 2fr 2fr 1fr 4fr 0.5fr;
 grid-template-rows: 1fr 1fr 5fr 4fr min-content;
 grid-template-areas: 
 ". NBAR NBAR NBAR NBAR SBAR ."
